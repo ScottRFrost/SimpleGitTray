@@ -1,0 +1,21 @@
+﻿{
+  "FetchMinutes": 15,
+  "Repos": [
+    {
+      "Name": "TrixieBot",
+      "URL": "",
+      "Branch": "master",
+      "Username": "",
+      "Password": "",
+      "LocalPath": "E:\\Source\\TrixieBot"
+    },
+    {
+      "Name": "conex",
+      "URL": "",
+      "Branch": "master",
+      "Username": "",
+      "Password": "",
+      "LocalPath": "E:\\Source\\Conex"
+    }
+  ]
+}

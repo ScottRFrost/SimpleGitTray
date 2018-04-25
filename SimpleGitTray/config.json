@@ -16,6 +16,14 @@
       "Username": "",
       "Password": "",
       "LocalPath": "E:\\Source\\Conex"
+    },
+    {
+      "Name": "SimpleGitTray",
+      "URL": "",
+      "Branch": "master",
+      "Username": "",
+      "Password": "",
+      "LocalPath": "E:\\Source\\SimpleGitTray"
     }
   ]
 }
